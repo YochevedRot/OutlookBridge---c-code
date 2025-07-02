@@ -1,0 +1,8 @@
+C:\Users\משתמש\Desktop\OutlookBridge\OutlookBridge\bin\Debug\OutlookBridge.exe.config
+C:\Users\משתמש\Desktop\OutlookBridge\OutlookBridge\bin\Debug\OutlookBridge.exe
+C:\Users\משתמש\Desktop\OutlookBridge\OutlookBridge\bin\Debug\OutlookBridge.pdb
+C:\Users\משתמש\Desktop\OutlookBridge\OutlookBridge\obj\Debug\OutlookBridge.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\OutlookBridge\OutlookBridge\obj\Debug\OutlookBridge.csproj.ResolveComReference.cache
+C:\Users\משתמש\Desktop\OutlookBridge\OutlookBridge\obj\Debug\OutlookBridge.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\OutlookBridge\OutlookBridge\obj\Debug\OutlookBridge.exe
+C:\Users\משתמש\Desktop\OutlookBridge\OutlookBridge\obj\Debug\OutlookBridge.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookBridge", "OutlookBridge\OutlookBridge.csproj", "{9ADB0E29-ED18-4E61-8EBF-3A92EEDA0CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADB0E29-ED18-4E61-8EBF-3A92EEDA0CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADB0E29-ED18-4E61-8EBF-3A92EEDA0CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADB0E29-ED18-4E61-8EBF-3A92EEDA0CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADB0E29-ED18-4E61-8EBF-3A92EEDA0CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E055D78-8EA7-41EF-B2B8-401649F7037E}
+	EndGlobalSection
+EndGlobal
